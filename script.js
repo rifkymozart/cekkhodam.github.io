@@ -7,7 +7,7 @@ document.getElementById('form-yatim').addEventListener('submit', function (e) {
 
   //const memberAzzahra = ['dicky', 'subani', 'bani', 'rifky', 'rifki', 'iqro', 'ilham', 'fakih', 'wahyu', 'abdul', 'muid', 'anjas', 'catur', 'dedy', 'dedi', 'apriyan', 'dicki'];
   const khodamPilihan = ['Superman', 'Batman', 'singa', 'kingkong', 'dr strange', 'kucing', 'spongebob']
-  const khodam = ['anjing', 'babi', 'kucing', 'beruk', 'tapir', 'srengenge', 'tuyul', 'macan', 'singa', 'jokowi', 'cobra', 'ayam', 'sapi', 'wewe gombel', 'cicak', 'monyet', 'naga', 'beruang', 'doraemon', 'spongebob', 'patrick', 'marmut', 'merak', 'angsa', 'kucing', 'hamster', 'bebek', 'barbie', 'capung', 'mimi peri', 'bidadari'];
+  const khodam = ['anjing', 'babi', 'kucing', 'beruk', 'tapir', 'srengenge', 'tuyul', 'macan', 'singa', 'jokowi', 'cobra', 'ayam', 'sapi', 'wewe gombel', 'cicak', 'monyet', 'naga', 'beruang', 'doraemon', 'spongebob', 'patrick', 'marmut', 'merak', 'angsa', 'kucing', 'hamster', 'bebek', 'barbie', 'capung', 'mimi peri', 'bidadari', 'gatot kaca', 'petruk', 'semar', 'biri biri'];
   //const ciwi = ['zakia', 'imah', 'imalatul'];
   //const khodamCiwi = ['marmut', 'merak', 'angsa', 'kucing', 'hamster', 'bebek', 'barbie', 'capung', 'peri', 'bidadari'];
 
