@@ -99,3 +99,23 @@ h1 {
         transform: translateX(-200%);
     }
 }
+
+.loader {
+    border: 4px solid #f3f3f3; /* Warna dasar */
+    border-top: 4px solid #0099ff; /* Warna bagian atas */
+    border-radius: 50%; /* Membuat bentuk lingkaran */
+    width: 30px;
+    height: 30px;
+    animation: spin 1s linear infinite; /* Animasi berputar */
+    margin: 20px auto; /* Pusatkan */
+    display: none; /* Default: disembunyikan */
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
